@@ -2,7 +2,7 @@ body{
     background-repeat: repeat-y;
     /* background-image: url("/asset/img/sexygame_bg.jpg"); */
     /* background-image: linear-gradient(180deg,#a70089 0%, #350b5d 100%);  */
-    background-color: #350b5d;
+    background-color: #000;
     background-position: 20%;
     line-height: 1.4;
     margin: 0 auto;
@@ -27,12 +27,13 @@ body{
     text-align: center;
     font-weight: normal;
     color: #fff;
-    padding: 10px 20px 10px 20px;
+    padding: 10px 10px 10px 10px;
     cursor: pointer;
     border-radius: 20px;
     font-weight: lighter;
-    background: linear-gradient(to bottom, #00c300, #008a00);
-    box-shadow: 0px 0px 20px 0px #00c300 !important;
+    background-color: #00c300;
+    /* background: linear-gradient(to bottom, #00c300, #008a00);
+    box-shadow: 0px 0px 20px 0px #00c300 !important; */
 }
 .login-a {
     text-align: center;
@@ -42,8 +43,9 @@ body{
     cursor: pointer;
     border-radius: 20px;
     font-weight: lighter;
-    background: linear-gradient(to bottom, rgb(255, 104, 205) 0%, rgb(220, 16, 152) 100%);
-    box-shadow: 0px 0px 20px 0px rgb(211, 17, 146) !important;
+    background-color: #ff2bfb;
+    /* background: linear-gradient(to bottom, rgb(255, 104, 205) 0%, rgb(220, 16, 152) 100%);
+    box-shadow: 0px 0px 20px 0px rgb(211, 17, 146) !important; */
 }
 .tab-content-detail{
     background-color: #1e003b ;
